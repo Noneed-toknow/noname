@@ -27,5 +27,6 @@ int main()
     {
         std::cout << "Enter a valid operation" << std::endl;
     }
+    std::cout<< "Thankyou for using out calculator" << std::endl;
         return 0;
 }
